@@ -1,0 +1,44 @@
+*{ margin: 0px;
+border: 0px;
+padding: 0px;
+box-sizing: 0px}
+
+  
+.body{
+
+   font-family: arial, monospace;
+}
+
+
+
+ .table1,.t-heading,.t-data{ 
+    border: 1px solid #dddddd ;
+
+     }
+
+
+   .t-headinggreen{
+      background-color: green;
+      margin: auto;
+      color: white;
+   }
+
+   .container{
+
+      width: 80%;
+      margin:auto;
+      background-color: #ffffe6;
+
+   }
+
+table{ width: 100% }
+
+
+.t-heading5{
+
+   background-color: green;
+   color: white;
+}
+
+.t-data5{ background-color: green;
+color: white }
